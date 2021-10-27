@@ -6,7 +6,7 @@ namespace SetLootRange
   {
     public static void Logger(string message)
     {
-      Logging.Write("[FilterItem] " + message, Logging.LogType.Normal, System.Drawing.Color.ForestGreen);
+      Logging.Write("[SetLootRange] " + message, Logging.LogType.Normal, System.Drawing.Color.ForestGreen);
     }
   }
 }
